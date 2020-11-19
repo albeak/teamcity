@@ -6,7 +6,7 @@ namespace ConsoleTeamCity
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("");
+			throw new Exception();
 		}
 	}
 }
